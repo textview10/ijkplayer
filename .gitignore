@@ -6,3 +6,13 @@
 /build
 /captures
 android-ndk-prof
+/.idea
+/ijkplayer-arm64/*.iml
+/ijkplayer-armv5/ijkplayer-armv5.iml
+/ijkplayer-armv7a/*.iml
+/ijkplayer-example/ijkplayer-example.iml
+/ijkplayer-exo/ijkplayer-exo.iml
+/ijkplayer-java/ijkplayer-java.iml
+/ijkplayer-x86/ijkplayer-x86.iml
+/ijkplayer-x86_64/ijkplayer-x86_64.iml
+/ijkplayer.iml
