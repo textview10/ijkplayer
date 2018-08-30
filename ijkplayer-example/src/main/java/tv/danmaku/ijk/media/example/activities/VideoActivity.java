@@ -142,6 +142,7 @@ public class VideoActivity extends AppCompatActivity implements TracksFragment.I
         mVideoView.setHudView(mHudView);
         // prefer mVideoPath
         mVideoPath = "rtsp://184.72.239.149/vod/mp4://BigBuckBunny_175k.mov";
+        mVideoPath = "rtsp://admin:testadmin@192.168.3.248";
         if (mVideoPath != null)
             mVideoView.setVideoPath(mVideoPath);
         else if (mVideoUri != null)

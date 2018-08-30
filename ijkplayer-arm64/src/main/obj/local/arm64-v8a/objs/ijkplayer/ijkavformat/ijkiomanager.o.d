@@ -1,47 +1,95 @@
-/home/xuwang/develop/ijkplayer-android/android/ijkplayer/ijkplayer-arm64/src/main/obj/local/arm64-v8a/objs/ijkplayer/ijkavformat/ijkiomanager.o: \
- /home/xuwang/develop/ijkplayer-android/android/ijkplayer/ijkplayer-arm64/src/main/jni/ijkmedia/ijkplayer/ijkavformat/ijkiomanager.c \
- /home/xuwang/develop/ijkplayer-android/android/ijkplayer/ijkplayer-arm64/src/main/jni/ijkmedia/ijkplayer/ijkavformat/ijkiomanager.h \
- /home/xuwang/develop/ijkplayer-android/android/ijkplayer/ijkplayer-arm64/src/main/jni/ijkmedia/ijkplayer/ijkavformat/ijkiourl.h \
- /home/xuwang/develop/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijkdict.h \
- /home/xuwang/develop/ijkplayer-android/android/ijkplayer/ijkplayer-arm64/src/main/jni/ijkmedia/ijkplayer/ijkavformat/ijkioapplication.h \
- /home/xuwang/develop/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijkutils.h \
- /home/xuwang/develop/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijktree.h \
- /home/xuwang/android/ndk/android-ndk-r14b/sources/cxx-stl/stlport/stlport/errno.h \
- /home/xuwang/develop/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijkthreadpool.h \
- /home/xuwang/android/ndk/android-ndk-r14b/sources/cxx-stl/stlport/stlport/pthread.h \
- /home/xuwang/android/ndk/android-ndk-r14b/sources/cxx-stl/stlport/stlport/stl/_prolog.h \
- /home/xuwang/develop/ijkplayer-android/android/ijkplayer/ijkplayer-arm64/src/main/jni/ijkmedia/ijkplayer/ijkavformat/ijkioprotocol.h \
- /home/xuwang/develop/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijktree.h \
- /home/xuwang/develop/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijkstl.h \
- /home/xuwang/android/ndk/android-ndk-r14b/sources/cxx-stl/stlport/stlport/stdlib.h \
- /home/xuwang/android/ndk/android-ndk-r14b/sources/cxx-stl/stlport/stlport/stdio.h
+/home/fangke/Android/ijkplayer-android/android/ijkplayer/ijkplayer-arm64/src/main/obj/local/arm64-v8a/objs/ijkplayer/ijkavformat/ijkiomanager.o: \
+ /home/fangke/Android/ijkplayer-android/android/ijkplayer/ijkplayer-arm64/src/main/jni/ijkmedia/ijkplayer/ijkavformat/ijkiomanager.c \
+ /home/fangke/Android/ijkplayer-android/android/ijkplayer/ijkplayer-arm64/src/main/jni/ijkmedia/ijkplayer/ijkavformat/ijkiomanager.h \
+ /home/fangke/Android/ijkplayer-android/android/ijkplayer/ijkplayer-arm64/src/main/jni/ijkmedia/ijkplayer/ijkavformat/ijkiourl.h \
+ /home/fangke/Android/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijkdict.h \
+ /home/fangke/Android/ijkplayer-android/android/ijkplayer/ijkplayer-arm64/src/main/jni/ijkmedia/ijkplayer/ijkavformat/ijkioapplication.h \
+ /home/fangke/Android/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijkutils.h \
+ /home/fangke/Android/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijktree.h \
+ /home/fangke/Android/android-ndk-r13/sources/cxx-stl/stlport/stlport/errno.h \
+ /home/fangke/Android/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijkthreadpool.h \
+ /home/fangke/Android/android-ndk-r13/sources/cxx-stl/stlport/stlport/pthread.h \
+ /home/fangke/Android/android-ndk-r13/sources/cxx-stl/stlport/stlport/stl/_prolog.h \
+ /home/fangke/Android/ijkplayer-android/android/ijkplayer/ijkplayer-arm64/src/main/jni/ijkmedia/ijkplayer/ijkavformat/ijkioprotocol.h \
+ /home/fangke/Android/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijktree.h \
+ /home/fangke/Android/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijkstl.h \
+ /home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/log.h \
+ /home/fangke/Android/android-ndk-r13/sources/cxx-stl/stlport/stlport/stdarg.h \
+ /home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/avutil.h \
+ /home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/common.h \
+ /home/fangke/Android/android-ndk-r13/sources/cxx-stl/stlport/stlport/math.h \
+ /home/fangke/Android/android-ndk-r13/sources/cxx-stl/stlport/stlport/stdio.h \
+ /home/fangke/Android/android-ndk-r13/sources/cxx-stl/stlport/stlport/stdlib.h \
+ /home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/attributes.h \
+ /home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/macros.h \
+ /home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/version.h \
+ /home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/avconfig.h \
+ /home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/mem.h \
+ /home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/error.h \
+ /home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/rational.h \
+ /home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/mathematics.h \
+ /home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/intfloat.h \
+ /home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/log.h \
+ /home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/pixfmt.h
 
-/home/xuwang/develop/ijkplayer-android/android/ijkplayer/ijkplayer-arm64/src/main/jni/ijkmedia/ijkplayer/ijkavformat/ijkiomanager.h:
+/home/fangke/Android/ijkplayer-android/android/ijkplayer/ijkplayer-arm64/src/main/jni/ijkmedia/ijkplayer/ijkavformat/ijkiomanager.h:
 
-/home/xuwang/develop/ijkplayer-android/android/ijkplayer/ijkplayer-arm64/src/main/jni/ijkmedia/ijkplayer/ijkavformat/ijkiourl.h:
+/home/fangke/Android/ijkplayer-android/android/ijkplayer/ijkplayer-arm64/src/main/jni/ijkmedia/ijkplayer/ijkavformat/ijkiourl.h:
 
-/home/xuwang/develop/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijkdict.h:
+/home/fangke/Android/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijkdict.h:
 
-/home/xuwang/develop/ijkplayer-android/android/ijkplayer/ijkplayer-arm64/src/main/jni/ijkmedia/ijkplayer/ijkavformat/ijkioapplication.h:
+/home/fangke/Android/ijkplayer-android/android/ijkplayer/ijkplayer-arm64/src/main/jni/ijkmedia/ijkplayer/ijkavformat/ijkioapplication.h:
 
-/home/xuwang/develop/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijkutils.h:
+/home/fangke/Android/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijkutils.h:
 
-/home/xuwang/develop/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijktree.h:
+/home/fangke/Android/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijktree.h:
 
-/home/xuwang/android/ndk/android-ndk-r14b/sources/cxx-stl/stlport/stlport/errno.h:
+/home/fangke/Android/android-ndk-r13/sources/cxx-stl/stlport/stlport/errno.h:
 
-/home/xuwang/develop/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijkthreadpool.h:
+/home/fangke/Android/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijkthreadpool.h:
 
-/home/xuwang/android/ndk/android-ndk-r14b/sources/cxx-stl/stlport/stlport/pthread.h:
+/home/fangke/Android/android-ndk-r13/sources/cxx-stl/stlport/stlport/pthread.h:
 
-/home/xuwang/android/ndk/android-ndk-r14b/sources/cxx-stl/stlport/stlport/stl/_prolog.h:
+/home/fangke/Android/android-ndk-r13/sources/cxx-stl/stlport/stlport/stl/_prolog.h:
 
-/home/xuwang/develop/ijkplayer-android/android/ijkplayer/ijkplayer-arm64/src/main/jni/ijkmedia/ijkplayer/ijkavformat/ijkioprotocol.h:
+/home/fangke/Android/ijkplayer-android/android/ijkplayer/ijkplayer-arm64/src/main/jni/ijkmedia/ijkplayer/ijkavformat/ijkioprotocol.h:
 
-/home/xuwang/develop/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijktree.h:
+/home/fangke/Android/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijktree.h:
 
-/home/xuwang/develop/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijkstl.h:
+/home/fangke/Android/ijkplayer-android/ijkmedia/ijkplayer/ijkavutil/ijkstl.h:
 
-/home/xuwang/android/ndk/android-ndk-r14b/sources/cxx-stl/stlport/stlport/stdlib.h:
+/home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/log.h:
 
-/home/xuwang/android/ndk/android-ndk-r14b/sources/cxx-stl/stlport/stlport/stdio.h:
+/home/fangke/Android/android-ndk-r13/sources/cxx-stl/stlport/stlport/stdarg.h:
+
+/home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/avutil.h:
+
+/home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/common.h:
+
+/home/fangke/Android/android-ndk-r13/sources/cxx-stl/stlport/stlport/math.h:
+
+/home/fangke/Android/android-ndk-r13/sources/cxx-stl/stlport/stlport/stdio.h:
+
+/home/fangke/Android/android-ndk-r13/sources/cxx-stl/stlport/stlport/stdlib.h:
+
+/home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/attributes.h:
+
+/home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/macros.h:
+
+/home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/version.h:
+
+/home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/avconfig.h:
+
+/home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/mem.h:
+
+/home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/error.h:
+
+/home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/rational.h:
+
+/home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/mathematics.h:
+
+/home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/intfloat.h:
+
+/home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/log.h:
+
+/home/fangke/Android/ijkplayer-android/android/contrib/build/ffmpeg-arm64/output/include/libavutil/pixfmt.h:

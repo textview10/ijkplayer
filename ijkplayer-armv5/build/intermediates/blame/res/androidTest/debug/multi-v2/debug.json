@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\xu.wang\\Desktop\\ijkplayer\\ijkplayer-armv5\\build\\intermediates\\res\\merged\\androidTest\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\xu.wang\\Desktop\\ijkplayer\\ijkplayer-armv5\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "65",
+                        "endOffsets": "161"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\xu.wang\\Desktop\\JPlayer-master\\ijkplayer-armv5\\build\\intermediates\\res\\merged\\androidTest\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\xu.wang\\Desktop\\JPlayer-master\\ijkplayer-armv5\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "65",
+                        "endOffsets": "161"
+                    }
+                }
+            ]
+        }
+    ]
+}
